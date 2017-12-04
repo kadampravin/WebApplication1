@@ -1,0 +1,9 @@
+C:\Users\pkadam\Documents\GitHub\WebApp\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\pkadam\Documents\GitHub\WebApp\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\pkadam\Documents\GitHub\WebApp\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\pkadam\Documents\GitHub\WebApp\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pkadam\Documents\GitHub\WebApp\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pkadam\Documents\GitHub\WebApp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pkadam\Documents\GitHub\WebApp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\pkadam\Documents\GitHub\WebApp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\pkadam\Documents\GitHub\WebApp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
